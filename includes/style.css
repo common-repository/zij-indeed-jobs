@@ -1,0 +1,10 @@
+div.zijindeed_job_wrapper{float:left;width:100%;background:#FFF;border:1px solid #e0e0e0;margin-bottom:10px;transition:0.3s ease-out;-webkit-box-shadow: 0px 2px 2px -2px rgba(0,0,0,1);-moz-box-shadow: 0px 2px 2px -2px rgba(0,0,0,1);box-shadow: 0px 2px 2px -2px rgba(0,0,0,1);}
+div.zijindeed_job_wrapper:hover{border:1px solid #1e88e5;}
+div.zijindeed_job_wrapper:hover a.zijindeed_job_applynow{border:1px solid #1e88e5;color:#1e88e5;}
+div.zijindeed_job_upper{float:left;width:100%;padding:15px;background:url(images/indeed.png) no-repeat right bottom #fcfcfc;background-size:60px auto;border-bottom:1px solid #e0e0e0;}
+div.zijindeed_job_upper a.zijindeed_title{display: block;font-size:16px;}
+div.zijindeed_job_upper span.zijindeed_job_comp_loc{display: block;font-size:12px;color:#616161;}
+div.zijindeed_job_upper div.zijindeed_snippet{margin-top:10px;font-size:12px;color:#878787;}
+div.zijindeed_job_lower{float:left;width:100%;padding:15px;position: relative;}
+div.zijindeed_job_lower span.fa{margin-right:5px;}
+div.zijindeed_job_lower a.zijindeed_job_applynow{position:absolute;right:12px;top:9px;padding:5px 8px;border:1px solid #e0e0e0;color:#878787;background:#fcfcfc;transition:0.3s ease-out;}

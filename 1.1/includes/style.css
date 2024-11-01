@@ -1,0 +1,8 @@
+div.zijindeed_job_wrapper{float:left;width:100%;background:url(images/indeed.png) no-repeat right bottom #fefefe;background-size:100px auto;border:1px solid #646464;margin-bottom:10px;padding:5px 10px;}
+div.zijindeed_job_wrapper div.zijindeed_job_title{float:left;width:100%;padding:5px 0px;border-bottom:1px solid #646464;}
+div.zijindeed_job_wrapper div.zijindeed_job_title a{color:#1D3161;text-decoration:none;}
+div.zijindeed_job_wrapper div.zijindeed_job_title a:hover{color:#646464;}
+div.zijindeed_job_wrapper div.zijindeed_field_wrapper{float:left;width:100%;margin-top:5px;}
+div.zijindeed_job_wrapper div.zijindeed_field_wrapper div.zijindeed_title{width:35%;float:left;color:#403E3E;}
+div.zijindeed_job_wrapper div.zijindeed_field_wrapper div.zijindeed_value{width:65%;float:left;color:#7D7A7A;}
+div.zijindeed_job_wrapper div.zijindeed_field_wrapper div.zijindeed_snippet{width:100%;float:left;color:#7D7A7A;}
